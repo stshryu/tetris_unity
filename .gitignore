@@ -417,3 +417,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Remove Text Fonts
+TextMesh Pro/
